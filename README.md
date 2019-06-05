@@ -1,7 +1,7 @@
 # Siamese Signature Verificator
 Deep siamese inception neural network for off-line signature verification.
 
-This repository present a Siamese Neural Networks to help solving the off-line signature verification problem against random forgeries. 
+This repository presents a Siamese Neural Networks to help solving the off-line signature verification problem against random forgeries. 
 
 Our proposed solution is writer-independent, and it can be used on new signers without any additional training. 
 
