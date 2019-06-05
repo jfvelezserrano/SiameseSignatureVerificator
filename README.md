@@ -1,5 +1,5 @@
-## Siamese Signature Verificator
-# Deep Siamese Inception Neural Network for Off-Line Signature Verification.
+# Siamese Signature Verificator
+## Deep Siamese Inception Neural Network for Off-Line Signature Verification.
 
 This repository presents a Siamese Neural Networks to help solving the off-line signature verification problem against random forgeries. 
 
@@ -7,7 +7,7 @@ Our proposed solution is writer-independent, and it can be used on new signers w
 
 We tested our approach on the SigComp11 dataset and achieved 4% of ERR in verification which demonstrates the generalization capabilities of our proposal.
 
-# Installation
+## Installation
 
 ```
 pip install requirements.txt
@@ -15,11 +15,11 @@ pip install requirements.txt
 python verification_server.py
 ```
 
-# Test the system working
+## Test the system working
 
 Using this [link](http://193.147.52.134:9000/) you can test the system working. To do that, first you have to create two PNG images with the signatures to be compared.
 
-# License
+## License
 
 You are free to:
 
