@@ -7,6 +7,15 @@ Our proposed solution is writer-independent, and it can be used on new signers w
 
 We tested our approach on the SigComp11 dataset and achieved 4% of ERR in verification which demonstrates the generalization capabilities of our proposal.
 
+# Installation
+
+pip install requirements.txt
+python 
+
+# Test the system working
+
+Using this [link](http://193.147.52.134:9000/) you can test the system working. To do that, first you have to create two PNG images with the signatures to be compared.
+
 # License
 
 You are free to:
