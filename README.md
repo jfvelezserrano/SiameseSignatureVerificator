@@ -9,11 +9,11 @@ We tested our approach on the SigComp11 dataset and achieved 4% of ERR in verifi
 
 # Installation
 
-'''
+```
 pip install requirements.txt
 
 python verification_server.py
-'''
+```
 
 # Test the system working
 
