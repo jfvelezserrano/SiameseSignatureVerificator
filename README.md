@@ -7,12 +7,11 @@ Our solution is writer-independent, and it can be used on new signers without an
 
 For example, our solution can verify that the three first signtures belong to one signer, and the other two signtures belong to other signers.
 
-![signature_A0](samples/A_0.png?raw=true "A-0")
-![signature_A1](samples/A_1.png?raw=true "A-2")
-![signature_A2](samples/A_2.png?raw=true "A-1")
-![signature_B](samples/B.png?raw=true "B")
-![signature_C](samples/C.png?raw=true "C")
-
+<img src="samples/A_0.png" width="256px" title="A-0">
+<img src="samples/A_1.png" width="256px" title="A-1">
+<img src="samples/A_2.png" width="256px" title="A-2">
+<img src="samples/B.png" width="256px" title="B">
+<img src="samples/C.png" width="256px" title="C">
 
 We tested our approach on the SigComp11 dataset and achieved 4% of ERR in verification which demonstrates the generalization capabilities of our proposal.
 
