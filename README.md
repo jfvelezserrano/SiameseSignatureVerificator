@@ -15,7 +15,7 @@ We tested our approach on the SigComp11 dataset and achieved 4% of ERR in verifi
 ## Installation
 
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 
 python verification_server.py
 ```
