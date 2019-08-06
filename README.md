@@ -3,14 +3,14 @@
 
 This repository presents a Siamese Neural Networks to help solving the off-line signature verification problem against random forgeries. 
 
-Our solution is writer-independent, and it can be used on new signers without any additional training. However, this is a preliminary version of our software. If you want our best version write us to jose.velez#urjc.es.
+Our solution is writer-independent, and it can be used on new signers without any additional training. 
 
 For example, our solution can verify that the three first signtures belong to one signer, and the other two signtures belong to other signers.
 
 
 <img src="samples/A_0.png" width="128px" title="A-0"> <img src="samples/A_1.png" width="128px" title="A-1"> <img src="samples/A_2.png" width="128px" title="A-2"> <img src="samples/B.png" width="128px" title="B"> <img src="samples/C.png" width="128px" title="C">
 
-We tested our approach on the SigComp11 dataset and achieved 4% of ERR in verification which demonstrates the generalization capabilities of our proposal.
+We tested our approach on the SigComp11 dataset and achieved 4% of ERR in verification which demonstrates the generalization capabilities of our proposal. However, this is a preliminary version of our software. If you want our best version write us to jose.velez#urjc.es.
 
 ## Installation
 
