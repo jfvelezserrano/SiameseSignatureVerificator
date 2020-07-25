@@ -22,7 +22,7 @@ python verification_server.py
 
 ## Test the system working
 
-Using this [link](http://193.147.52.134:9000/) you can test the system working. To do that, first you have to create two PNG images with the signatures to be compared, or download from out sample directory.
+Using this [link](http://193.147.52.134:9002/) you can test the system working. To do that, first you have to create two PNG images with the signatures to be compared, or download from out sample directory.
 
 ## License
 
