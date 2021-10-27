@@ -4,7 +4,7 @@ certifi==2017.7.27.1
 click==6.7
 cloudpickle==0.4.0
 cycler==0.10.0
-dask==0.15.3
+dask==2021.10.0
 decorator==4.1.2
 distributed==1.19.1
 entrypoints==0.2.3
